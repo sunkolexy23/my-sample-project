@@ -1,4 +1,4 @@
 
 document.addEventListener("DOMContentLoaded", function() {
-    console.log("Welcome to My Sample Project!");
+    console.log("Feature4 paragraph added");
 });
